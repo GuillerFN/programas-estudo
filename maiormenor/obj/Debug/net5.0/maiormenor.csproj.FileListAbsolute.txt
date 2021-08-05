@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.exe
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.deps.json
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.runtimeconfig.json
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.runtimeconfig.dev.json
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.dll
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\ref\maiormenor.dll
+C:\workspace\teste-GFT\maiormenor\bin\Debug\net5.0\maiormenor.pdb
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.AssemblyInfo.cs
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.dll
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\ref\maiormenor.dll
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.pdb
+C:\workspace\teste-GFT\maiormenor\obj\Debug\net5.0\maiormenor.genruntimeconfig.cache

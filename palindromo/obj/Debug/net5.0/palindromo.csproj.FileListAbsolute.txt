@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.exe
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.deps.json
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.runtimeconfig.json
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.runtimeconfig.dev.json
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.dll
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\ref\palindromo.dll
+C:\workspace\teste-GFT\palindromo\bin\Debug\net5.0\palindromo.pdb
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.AssemblyInfo.cs
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.dll
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\ref\palindromo.dll
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.pdb
+C:\workspace\teste-GFT\palindromo\obj\Debug\net5.0\palindromo.genruntimeconfig.cache

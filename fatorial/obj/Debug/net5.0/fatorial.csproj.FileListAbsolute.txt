@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.exe
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.deps.json
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.json
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.runtimeconfig.dev.json
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.dll
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\ref\fatorial.dll
+C:\workspace\teste-GFT\fatorial\bin\Debug\net5.0\fatorial.pdb
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.AssemblyInfo.cs
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.dll
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\ref\fatorial.dll
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.pdb
+C:\workspace\teste-GFT\fatorial\obj\Debug\net5.0\fatorial.genruntimeconfig.cache

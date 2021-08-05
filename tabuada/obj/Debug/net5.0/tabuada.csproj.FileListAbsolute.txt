@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.exe
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.deps.json
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.json
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.dev.json
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.dll
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\ref\tabuada.dll
+C:\workspace\teste-GFT\tabuada\bin\Debug\net5.0\tabuada.pdb
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfo.cs
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.dll
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\ref\tabuada.dll
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.pdb
+C:\workspace\teste-GFT\tabuada\obj\Debug\net5.0\tabuada.genruntimeconfig.cache

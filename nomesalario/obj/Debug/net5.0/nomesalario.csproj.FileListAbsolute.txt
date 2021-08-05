@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.exe
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.deps.json
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.runtimeconfig.json
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.runtimeconfig.dev.json
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.dll
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\ref\nomesalario.dll
+C:\workspace\teste-GFT\nomesalario\bin\Debug\net5.0\nomesalario.pdb
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.AssemblyInfo.cs
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.dll
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\ref\nomesalario.dll
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.pdb
+C:\workspace\teste-GFT\nomesalario\obj\Debug\net5.0\nomesalario.genruntimeconfig.cache

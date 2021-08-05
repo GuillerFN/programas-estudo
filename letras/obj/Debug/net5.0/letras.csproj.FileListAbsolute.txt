@@ -1,0 +1,16 @@
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.exe
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.deps.json
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.runtimeconfig.json
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.runtimeconfig.dev.json
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.dll
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\ref\letras.dll
+C:\workspace\teste-GFT\letras\bin\Debug\net5.0\letras.pdb
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.csprojAssemblyReference.cache
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.AssemblyInfoInputs.cache
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.AssemblyInfo.cs
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.csproj.CoreCompileInputs.cache
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.dll
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\ref\letras.dll
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.pdb
+C:\workspace\teste-GFT\letras\obj\Debug\net5.0\letras.genruntimeconfig.cache
